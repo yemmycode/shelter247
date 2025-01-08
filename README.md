@@ -68,6 +68,6 @@ Follow these steps to run the Shelter247 web app locally:
 ### Steps  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/shelter247.git  
+   git clone https://github.com/yemmycode/shelter247.git  
    cd shelter247  
 
